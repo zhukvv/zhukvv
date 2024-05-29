@@ -1,7 +1,7 @@
 # Hi there, I'm Viktoriya 👋
 
-Welcome to my GitHub profile! I'm a Data Analyst with analyticcal set of mind,
-passionate about riding a bicycle, training my dog, reading pshycology and eco-friendly lifestyle.
+Welcome to my GitHub profile! I'm a data analyst with an analytical set of mind,
+passionate about riding a bicycle, training my dog, reading psychology and living eco-friendly.
 
 ## About Me
 - 🔭 I’m still studying at Changellenge Education.
